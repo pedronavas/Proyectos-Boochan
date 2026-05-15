@@ -25,10 +25,7 @@ Resiliencia (Disaster Recovery): Particionado de hardware virtual secundario e i
 ###  Demostración Proyecto Integrador (Bochan 1)
 *Proyecto realizado por Héctor, Iker y Jorge.*
 
-Video entero sin distracciones:
-0 distraccion De VirtualBox a SSH:Guía de 9 Fases para Crear y Asegurar tu Servidor Web  Cloudflare.
-
-https://www.youtube.com/playlist?list=PLU7Qnmepg_8_AgyWdUj0gUuw8uaapg_bu
+https://www.youtube.com/playlist?list=PLU7Qnmepg_8-CQi_cG02l16OHLwAT3g8K
 
 ---
 
