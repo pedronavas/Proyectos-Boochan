@@ -25,7 +25,20 @@ Resiliencia (Disaster Recovery): Particionado de hardware virtual secundario e i
 ###  Demostración Proyecto Integrador (Bochan 1)
 *Proyecto realizado por Héctor, Iker y Jorge.*
 
-https://www.youtube.com/playlist?list=PLU7Qnmepg_8-CQi_cG02l16OHLwAT3g8K
+**Playlist YouTube:** https://www.youtube.com/playlist?list=PLU7Qnmepg_8-CQi_cG02l16OHLwAT3g8K
+
+**Vídeos locales:** `videos/Boochan 1/`
+| # | Vídeo | Archivo |
+|---|---|---|
+| 1 | Fase 9 - Auditorías de Seguridad y Pentesting | `01 - fase 9 Auditorías de Seguridad y Pentesting...mp4` |
+| 2 | Fase 8 - Ampliación de Disco | `02 - fase 8 Ampliación de Disco...mp4` |
+| 3 | Fase 7 - Plan de Respaldo | `03 - FAse 7 Plan de Respaldo...mp4` |
+| 4 | Fase 6 - Hardening y Blindaje | `04 - fase 6 Hardening y Blindaje...mp4` |
+| 5 | Fase 4b - Cloudflare Tunnel | `05 - Fase 4b Cloudflare Tunnel...mp4` |
+| 6 | Fase 3 - Configuración Nginx y ProFTPD | `06 - fase 3 Configuración Nginx y ProFTPD...mp4` |
+| 7 | Fase 2 - Instalación OpenSSH, XFCE4 y AnyDesk | `07 - Fase 2 boochan v1 Instalación...mp4` |
+| 8 | Fase 1 - Instalación Ubuntu Server 24.04 | `08 - Fase 1 boochan v1 Introduccion...mp4` |
+| 9 | Bonus: De VirtualBox a SSH | `09 - 0 distraccion De VirtualBox a SSH...mp4` |
 
 ---
 
@@ -48,5 +61,18 @@ Monitorización: Automatización del procesamiento de logs del servidor para la 
   ###  Demostración Boochan 2
 *Proyecto realizado por Iker y Jorge.*
 
-https://www.youtube.com/playlist?list=PLU7Qnmepg_8_94ZFcMpZDa0VXZ-DgVjHv
+**Playlist YouTube:** https://www.youtube.com/playlist?list=PLU7Qnmepg_8_94ZFcMpZDa0VXZ-DgVjHv
+
+**Vídeos locales:** `videos/Boochan 2/`
+| # | Vídeo | Archivo |
+|---|---|---|
+| 1 | Tu propio dominio en Azure | `01 - Boochan v2 - Tu propio dominio en Azure...mp4` |
+| 2 | Fase 8 - Conexión de Equipos Windows | `02 - 💻 Fase 8 El Aterrizaje del Cliente...mp4` |
+| 3 | Fase 7 - Seguridad Granular (ABE) | `03 - 🕵️ Fase 7 El Sistema de Cortinas...mp4` |
+| 4 | Fase 6 - Discos y Cuotas | `04 - 💾 Fase 6 Las Bóvedas de Datos...mp4` |
+| 5 | Fases 4 y 5 - Dominio e Identidades | `05 - 👑👥Fases 4 y 5 El Corazón de la Infraestructura...mp4` |
+| 6 | Fase 3 - Túnel WireGuard | `06 - 🔒 Fase 3 El Túnel Secreto...mp4` |
+| 7 | Fase 2 - Purga y Preparación | `07 - 🧹 Fase 2 Terreno Limpio...mp4` |
+| 8 | Fase 1 - Introducción y Firewall Azure | `08 - 🏗️ Fase 1 El Plano Maestro...mp4` |
+| 9 | Bonus: Tu dominio en Azure (Prod. Optics) | `09 - Tu propio dominio en Azure...mp4` |
 
